@@ -1,0 +1,11 @@
+C:\Users\srafa\OneDrive - BATES Bulgaria EOOD\SoftUni\2023 QA Programming_3Module\Programming for QA_2nd_part\Exam_231217\P1_CamelCaseConvertor\TestApp\bin\Debug\net6.0\TestApp.deps.json
+C:\Users\srafa\OneDrive - BATES Bulgaria EOOD\SoftUni\2023 QA Programming_3Module\Programming for QA_2nd_part\Exam_231217\P1_CamelCaseConvertor\TestApp\bin\Debug\net6.0\TestApp.dll
+C:\Users\srafa\OneDrive - BATES Bulgaria EOOD\SoftUni\2023 QA Programming_3Module\Programming for QA_2nd_part\Exam_231217\P1_CamelCaseConvertor\TestApp\bin\Debug\net6.0\TestApp.pdb
+C:\Users\srafa\OneDrive - BATES Bulgaria EOOD\SoftUni\2023 QA Programming_3Module\Programming for QA_2nd_part\Exam_231217\P1_CamelCaseConvertor\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srafa\OneDrive - BATES Bulgaria EOOD\SoftUni\2023 QA Programming_3Module\Programming for QA_2nd_part\Exam_231217\P1_CamelCaseConvertor\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+C:\Users\srafa\OneDrive - BATES Bulgaria EOOD\SoftUni\2023 QA Programming_3Module\Programming for QA_2nd_part\Exam_231217\P1_CamelCaseConvertor\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+C:\Users\srafa\OneDrive - BATES Bulgaria EOOD\SoftUni\2023 QA Programming_3Module\Programming for QA_2nd_part\Exam_231217\P1_CamelCaseConvertor\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\srafa\OneDrive - BATES Bulgaria EOOD\SoftUni\2023 QA Programming_3Module\Programming for QA_2nd_part\Exam_231217\P1_CamelCaseConvertor\TestApp\obj\Debug\net6.0\TestApp.dll
+C:\Users\srafa\OneDrive - BATES Bulgaria EOOD\SoftUni\2023 QA Programming_3Module\Programming for QA_2nd_part\Exam_231217\P1_CamelCaseConvertor\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+C:\Users\srafa\OneDrive - BATES Bulgaria EOOD\SoftUni\2023 QA Programming_3Module\Programming for QA_2nd_part\Exam_231217\P1_CamelCaseConvertor\TestApp\obj\Debug\net6.0\TestApp.pdb
+C:\Users\srafa\OneDrive - BATES Bulgaria EOOD\SoftUni\2023 QA Programming_3Module\Programming for QA_2nd_part\Exam_231217\P1_CamelCaseConvertor\TestApp\obj\Debug\net6.0\ref\TestApp.dll

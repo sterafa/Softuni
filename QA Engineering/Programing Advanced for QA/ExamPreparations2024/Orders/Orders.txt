@@ -1,0 +1,40 @@
+using System;
+using System.Collections.Generic;
+
+public class Program {
+    public static void Main(string[] args) {
+        Dictionary<string, (double price, int quantity)> products = new Dictionary<string, (double price, int quantity)>();
+
+        string input;
+        while ((input = Console.ReadLine()) != "buy") {
+            string[] tokens = input.Split(' ');
+            string name = tokens[0];
+            double price = double.Parse(tokens[1]);
+            int quantity = int.Parse(tokens[2]);
+
+            if (products.ContainsKey(name)) {
+                products[name] = (price, products[name].quantity + quantity);
+            }
+            else {
+                products[name] = (price, quantity);
+            }
+        }
+
+        foreach (var product in products) {
+            string name = product.Key;
+            double totalPrice = product.Value.price * product.Value.quantity;
+            //Console.WriteLine($"{name} -> {totalPrice:F2}");
+			Console.WriteLine("{0} -> {1:F2}", name, totalPrice);
+        }
+		
+		Console.WriteLine();
+		
+		foreach (var product in products) {
+			string name = product.Key;
+			double price = product.Value.price;
+			int quantity = product.Value.quantity;
+			//Console.WriteLine($"{name} {price:F2} {quantity}");
+			Console.WriteLine("{0} {1:F2} {2}", name, price, quantity);
+		}
+    }
+}
