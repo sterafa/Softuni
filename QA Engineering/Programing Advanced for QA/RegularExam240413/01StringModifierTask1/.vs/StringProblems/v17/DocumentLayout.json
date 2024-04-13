@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\srafa\\Desktop\\SoftUni\\sterafa\\QA Engineering\\Programing Advanced for QA\\RegularExam240413\\01StringModifierTask1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{932D8F5E-3A10-4172-8448-426B6F52347A}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\srafa\\desktop\\softuni\\sterafa\\qa engineering\\programing advanced for qa\\regularexam240413\\01stringmodifiertask1\\testapp.tests\\stringmodifiertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{932D8F5E-3A10-4172-8448-426B6F52347A}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\stringmodifiertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94635F62-C64B-43D6-B268-E6B38B1CE0A4}|TestApp\\TestApp.csproj|c:\\users\\srafa\\desktop\\softuni\\sterafa\\qa engineering\\programing advanced for qa\\regularexam240413\\01stringmodifiertask1\\testapp\\stringmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94635F62-C64B-43D6-B268-E6B38B1CE0A4}|TestApp\\TestApp.csproj|solutionrelative:testapp\\stringmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringModifier.cs",
+              "DocumentMoniker": "C:\\Users\\srafa\\Desktop\\SoftUni\\sterafa\\QA Engineering\\Programing Advanced for QA\\RegularExam240413\\01StringModifierTask1\\TestApp\\StringModifier.cs",
+              "RelativeDocumentMoniker": "TestApp\\StringModifier.cs",
+              "ToolTip": "C:\\Users\\srafa\\Desktop\\SoftUni\\sterafa\\QA Engineering\\Programing Advanced for QA\\RegularExam240413\\01StringModifierTask1\\TestApp\\StringModifier.cs",
+              "RelativeToolTip": "TestApp\\StringModifier.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwBoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T08:36:23.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StringModifierTests.cs",
+              "DocumentMoniker": "C:\\Users\\srafa\\Desktop\\SoftUni\\sterafa\\QA Engineering\\Programing Advanced for QA\\RegularExam240413\\01StringModifierTask1\\TestApp.Tests\\StringModifierTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\StringModifierTests.cs",
+              "ToolTip": "C:\\Users\\srafa\\Desktop\\SoftUni\\sterafa\\QA Engineering\\Programing Advanced for QA\\RegularExam240413\\01StringModifierTask1\\TestApp.Tests\\StringModifierTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\StringModifierTests.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAiwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T08:29:13.71Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

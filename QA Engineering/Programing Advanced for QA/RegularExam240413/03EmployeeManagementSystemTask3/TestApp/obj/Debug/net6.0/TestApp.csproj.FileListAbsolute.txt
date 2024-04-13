@@ -1,0 +1,12 @@
+C:\Users\srafa\Desktop\SoftUni\sterafa\QA Engineering\Programing Advanced for QA\RegularExam240413\03EmployeeManagementSystemTask3\TestApp\bin\Debug\net6.0\TestApp.deps.json
+C:\Users\srafa\Desktop\SoftUni\sterafa\QA Engineering\Programing Advanced for QA\RegularExam240413\03EmployeeManagementSystemTask3\TestApp\bin\Debug\net6.0\TestApp.dll
+C:\Users\srafa\Desktop\SoftUni\sterafa\QA Engineering\Programing Advanced for QA\RegularExam240413\03EmployeeManagementSystemTask3\TestApp\bin\Debug\net6.0\TestApp.pdb
+C:\Users\srafa\Desktop\SoftUni\sterafa\QA Engineering\Programing Advanced for QA\RegularExam240413\03EmployeeManagementSystemTask3\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srafa\Desktop\SoftUni\sterafa\QA Engineering\Programing Advanced for QA\RegularExam240413\03EmployeeManagementSystemTask3\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+C:\Users\srafa\Desktop\SoftUni\sterafa\QA Engineering\Programing Advanced for QA\RegularExam240413\03EmployeeManagementSystemTask3\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+C:\Users\srafa\Desktop\SoftUni\sterafa\QA Engineering\Programing Advanced for QA\RegularExam240413\03EmployeeManagementSystemTask3\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\srafa\Desktop\SoftUni\sterafa\QA Engineering\Programing Advanced for QA\RegularExam240413\03EmployeeManagementSystemTask3\TestApp\obj\Debug\net6.0\TestApp.sourcelink.json
+C:\Users\srafa\Desktop\SoftUni\sterafa\QA Engineering\Programing Advanced for QA\RegularExam240413\03EmployeeManagementSystemTask3\TestApp\obj\Debug\net6.0\TestApp.dll
+C:\Users\srafa\Desktop\SoftUni\sterafa\QA Engineering\Programing Advanced for QA\RegularExam240413\03EmployeeManagementSystemTask3\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+C:\Users\srafa\Desktop\SoftUni\sterafa\QA Engineering\Programing Advanced for QA\RegularExam240413\03EmployeeManagementSystemTask3\TestApp\obj\Debug\net6.0\TestApp.pdb
+C:\Users\srafa\Desktop\SoftUni\sterafa\QA Engineering\Programing Advanced for QA\RegularExam240413\03EmployeeManagementSystemTask3\TestApp\obj\Debug\net6.0\ref\TestApp.dll

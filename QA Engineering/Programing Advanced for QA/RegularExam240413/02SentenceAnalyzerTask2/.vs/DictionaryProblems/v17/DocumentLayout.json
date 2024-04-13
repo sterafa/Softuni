@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\srafa\\Desktop\\SoftUni\\sterafa\\QA Engineering\\Programing Advanced for QA\\RegularExam240413\\02SentenceAnalyzerTask2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC77954-F560-4AED-8660-0A1FAB763119}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\srafa\\desktop\\softuni\\sterafa\\qa engineering\\programing advanced for qa\\regularexam240413\\02sentenceanalyzertask2\\testapp.tests\\sentenceanalyzertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC77954-F560-4AED-8660-0A1FAB763119}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\sentenceanalyzertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SentenceAnalyzerTests.cs",
+              "DocumentMoniker": "C:\\Users\\srafa\\Desktop\\SoftUni\\sterafa\\QA Engineering\\Programing Advanced for QA\\RegularExam240413\\02SentenceAnalyzerTask2\\TestApp.Tests\\SentenceAnalyzerTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\SentenceAnalyzerTests.cs",
+              "ToolTip": "C:\\Users\\srafa\\Desktop\\SoftUni\\sterafa\\QA Engineering\\Programing Advanced for QA\\RegularExam240413\\02SentenceAnalyzerTask2\\TestApp.Tests\\SentenceAnalyzerTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\SentenceAnalyzerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T08:55:45.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
